@@ -1,0 +1,4 @@
+requests==2.20.1
+PyMySQL==0.9.3
+boto3==1.12.6
+Flask==1.1.1
